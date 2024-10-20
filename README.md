@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aphelele25
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning python, web development and C#. 
+- 👀 I’m interested in software development and project management. 
+- 🌱 I’m currently learning Python, web development, and C#. 
 - 💞️ I’m looking to collaborate on team projects.
 - 📫 How to reach me Mapukoaphelele@gmail.com
 
